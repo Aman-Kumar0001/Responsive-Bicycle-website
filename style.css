@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * {
     padding: 0;
     margin: 0;
@@ -343,4 +344,37 @@ footer ul{
     footer{
     flex-direction: row;
     }
+=======
+.img1{
+    background-image: url("https://websitedemos.net/cycle-shop-02/wp-content/uploads/sites/789/2021/04/moutain-bike.jpg");
+    height: 560px;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.img2{
+    background-image: url("https://websitedemos.net/cycle-shop-02/wp-content/uploads/sites/789/2021/04/city-bike.jpg");
+    height: 560px;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.img3{
+    background-image: url("https://websitedemos.net/cycle-shop-02/wp-content/uploads/sites/789/2021/04/speciality-bike.jpg");
+    height: 570px;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.img4{
+    background-image: url("https://websitedemos.net/cycle-shop-02/wp-content/uploads/sites/789/2021/04/speciality-bike.jpg");
+    height: 700px;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.star i{
+    color: yellow;
+>>>>>>> 9c020df83dc70f7dc009baec932391454b6db18a
 }
